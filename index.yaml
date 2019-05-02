@@ -3,11 +3,11 @@ entries:
   pac-pluethi:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-02T20:50:24.208231+02:00
+    created: 2019-05-02T21:08:41.601592+02:00
     description: A Helm chart for Kubernetes
-    digest: 9dca6ae1c98854220de336aa05ff3e5b9930f52658c4b0a6c5b22638d216a4a5
+    digest: f291c36262f8e642b166cdf0b38d1c6f4947a43012189648a14ca18be555442e
     name: pac-pluethi
     urls:
     - https://github.com/patrick-luethi/pac/raw/master/pac-pluethi-0.1.0.tgz
     version: 0.1.0
-generated: 2019-05-02T20:50:24.207354+02:00
+generated: 2019-05-02T21:08:41.600679+02:00
