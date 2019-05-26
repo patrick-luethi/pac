@@ -1,13 +1,13 @@
 apiVersion: v1
 entries:
-  pac-pluethi:
+  pluethi-pac:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-05-05T19:44:35.929254+02:00
-    description: PAC Conference System
-    digest: b4f046bb71a0503142279de85bff3feb34dd6640dd94d13a0f0f77079609efb4
-    name: pac-pluethi
+    created: 2019-05-26T23:47:55.138261+02:00
+    description: PAC conference system umbrella chart
+    digest: 50415f29cdff62c06aa7545f249024609f3dede30949ecd2e3f857c3e0bf942d
+    name: pluethi-pac
     urls:
-    - https://github.com/patrick-luethi/pac/raw/master/pac-pluethi-0.2.0.tgz
-    version: 0.2.0
-generated: 2019-05-05T19:44:35.92041+02:00
+    - https://github.com/patrick-luethi/pac/raw/master/pluethi-pac-0.1.0.tgz
+    version: 0.1.0
+generated: 2019-05-26T23:47:55.115924+02:00
